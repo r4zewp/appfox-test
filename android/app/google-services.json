@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431177367442",
+    "project_id": "appfox-test-e387c",
+    "storage_bucket": "appfox-test-e387c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431177367442:android:3ac27654e82e69d3050b4b",
+        "android_client_info": {
+          "package_name": "com.example.appfox_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431177367442-9qf32cg084aptj7o9h3eadf817k7p9ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALd9TXhnAx-_SPnIqH9qJWLgj4oWDtYe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431177367442-9qf32cg084aptj7o9h3eadf817k7p9ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
