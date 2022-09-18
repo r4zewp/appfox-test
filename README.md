@@ -1,3 +1,2 @@
-# Appfox test
-
-Примерно потрачено времени - 10-12 часов.
+# QuizMe
+Currently is in development.
